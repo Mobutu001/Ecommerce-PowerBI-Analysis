@@ -160,9 +160,7 @@ SQL was used for:
 Key SQL techniques used:
 
 - JOINs
-- Common Table Expressions (CTEs)
 - Aggregate Functions
-- Window Functions
 - Conditional Logic
 - Date Analysis
 
