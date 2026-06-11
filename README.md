@@ -131,19 +131,19 @@ Analyzes purchasing patterns, peak shopping periods, revenue trends, and order b
 
 ### Executive Overview
 
-[Insert Screenshot Here]
+![Executive Overview](Dashboard%20Screenshots/01_Executive_Overview.png)
 
 ### Customer Insights & Value Analysis
 
-[Insert Screenshot Here]
+![Customer Insights](Dashboard%20Screenshots/02_Customer_Insights.png)
 
 ### Delivery Performance & Customer Satisfaction
 
-[Insert Screenshot Here]
+![Logistics & Delivery](Dashboard%20Screenshots/03_Logistics_and_Delivery.png)
 
 ### Sales Trends & Shopping Behaviour
 
-[Insert Screenshot Here]
+![Sales Trends](Dashboard%20Screenshots/04_Sales_Trends_and_Shopping_Behaviour.png)
 
 
 ## SQL Analysis
